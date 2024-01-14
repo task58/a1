@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "taskgohachis_mod_a_one:item/flint_pickaxe"
+  }
+}
